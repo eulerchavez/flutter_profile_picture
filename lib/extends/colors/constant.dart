@@ -15,7 +15,7 @@ class ConstantColor {
     'G': const Color(0xFFF57C00),
     'H': const Color(0xFFFFA000),
     'I': const Color(0xFFFBC02D),
-    'J': const Color(0xFFFFEA00),
+    'J': const Color(0xFFFF9D00),
     'K': const Color(0xFFE64A19),
     'L': const Color(0xFF5D4037),
     'M': const Color(0xFF7E57C2),
